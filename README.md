@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+
+I'm theo. I'm a full-stack developer building tools for business to automate their processes.
+Are you building anything down here in Ghana? Let's connect!
+
+I love Laravel!
 
 <!--
 **tpankrah/tpankrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
